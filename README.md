@@ -17,3 +17,4 @@ Set of implementations of algorithms and data structures that are reused in some
 | Type | Solved problems |
 ------ | --------------- |
 | String | <ul><li>[Super Reduced String](./algorithms/strings/super-reduced-string/src/main.rs)</li><li>[CamelCase](./algorithms/strings/camel-case/src/main.rs)</li><li>[Strong Password](./algorithms/strings/strong-password/src/main.rs)</li></ul> |
+| Sorting | <ul><li>[Insertion Sort - Part 1](./algorithms/sorting/insertion-sort-part-1/src/main.rs)</li></ul> |
