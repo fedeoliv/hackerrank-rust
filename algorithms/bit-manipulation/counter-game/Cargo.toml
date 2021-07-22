@@ -1,0 +1,9 @@
+[package]
+name = "counter-game"
+version = "0.1.0"
+authors = ["Fernando de Oliveira <5161098+fernandoBRS@users.noreply.github.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
